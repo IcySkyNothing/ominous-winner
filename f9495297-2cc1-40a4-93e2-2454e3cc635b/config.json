@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6281281464240@s.whatsapp.net"],
+  "ownerName": ["IJALs"],
+  "botName": "Bot SKY",
+  "footer": "© BOT-SKY 2022",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "IJALs"
+    }
+}
